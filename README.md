@@ -8,7 +8,7 @@
 - [Data Description](#data-description)
 - [Tech Stack](#tech-stack)
 - [Project Scope](#project-scope)
-- [Analysis and Insights](#analysis-and-insights)
+- [Insights and Recommendations](#insights-and-recommendations)
 - [Implementation Pathway](#implementation-pathway)
 
 ## Business Problem
@@ -90,7 +90,7 @@ You can interact with the dashboard [here]()
 
 4. Product Preferences by Segment: Each customer segment (Type 1 to Type 6) shows distinct preferences for certain SKUs, highlighting the importance of tailored product offerings.
 
-5. High Value SKUs: The identification of top SKU bought by cutomers suggests a focused demand for specific products.
+5. High Value SKUs: The identification of top SKU bought by customers suggests a focused demand for specific products.
 
 6. Sales Variability and Seasonality: Sales varies for different month when in different locations by different Customer Types.
 
