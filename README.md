@@ -78,6 +78,7 @@ Tool– Microsoft Excel
 
 You can interact with the dashboard [here]()
 
+### Dashboard
 ![](Dashboard.png)
 
 ### General Insights
