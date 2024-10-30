@@ -78,7 +78,7 @@ Tool– Microsoft Excel
 
 You can interact with the dashboard [here]()
 
-![](Overview.png)
+![](Dashboard.png)
 
 ### General Insights
 
@@ -97,8 +97,8 @@ You can interact with the dashboard [here]()
 
 ### Recommendations
 
-Product Strategy:
-1. - Diversification: Develop products catering to the diverse needs of different age and income groups.
+1. Product Strategy:
+   - Diversification: Develop products catering to the diverse needs of different age and income groups.
    - Tailoring for High-Value SKUs: Focus production on top SKU from the customer segment, ensuring they are well-stocked and readily available.
 
 2. Inventory Management:
