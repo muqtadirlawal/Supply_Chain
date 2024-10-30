@@ -74,8 +74,7 @@ Tool– Microsoft Excel
 - Visualization and Reporting: Create interactive dashboards in Excel to visualize insights.  
 - Recommendation: Integrate the data-driven supply chain planning process into the company's existing systems and processes.
 
-## Analysis and Insights
-
+## Insights and Recommendations
 
 You can interact with the dashboard [here]()
 
