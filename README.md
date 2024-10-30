@@ -75,14 +75,9 @@ Tool– Microsoft Excel
 - Recommendation: Integrate the data-driven supply chain planning process into the company's existing systems and processes.
 
 ## Analysis and Insights
-The report comprises 5 pages:
-1. Overview
-2. Demographics & Job Roles
-3. Satisfaction & Work-life Balance
-4. Performance & Compensation
-5. Recommendations
 
-You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiN2FiNmVhNWUtNWM3OS00ZTU1LTg3ZmEtMmNhZTEzNTc5NTIwIiwidCI6IjBjODQwNDRjLTRmZDUtNGU4My1iYjczLWNiYjhjNjI3OGIyZiJ9)
+
+You can interact with the dashboard [here]()
 
 ### Overview
 ![](Overview.png)
