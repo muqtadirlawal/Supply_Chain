@@ -80,7 +80,7 @@ Tool– Microsoft Excel
 
 You can interact with the dashboard [here]()
 
-### General Insights
+## General Insights
 
 1. Diverse Customer Base: The even distribution across different ages and the presence of various gender groups indicate a wide-ranging customer base.
 
@@ -95,7 +95,7 @@ You can interact with the dashboard [here]()
 6. Sales Variability and Seasonality: Sales varies for different month when in different locations by different Customer Types.
 
 
-### Recommendations
+## Recommendations
 
 1. Product Strategy:
    - Diversification: Develop products catering to the diverse needs of different age and income groups.
@@ -125,7 +125,7 @@ You can interact with the dashboard [here]()
    - Community Building: Engage with different customer groups to build brand loyalty and gain deeper insights into their preferences.
    - Responsive Customer Service: Provide excellent customer service, especially to the dominant adult low-income segment, to foster long-term relationships.
 
-### Implementation Pathway:
+## Implementation Pathway:
 
 - Short-Term: Focus on inventory adjustments and marketing campaigns targeting key segments and high-value SKUs.
 - Medium-Term: Develop and refine products based on customer segment feedback and sales data analysis.
