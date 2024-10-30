@@ -78,7 +78,7 @@ Tool– Microsoft Excel
 ![](Overview.png)
 
 
-You can view and interact with the dashboard [here](https://hullacuk-my.sharepoint.com/personal/m_o_lawal-2021_hull_ac_uk/_layouts/15/Doc.aspx?sourcedoc={3e99e9c3-696e-454b-bc95-8c5b1cea858d}&action=embedview&AllowTyping=True&ActiveCell='Dashboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
+You can view and interact with the dashboard [here]()
 
 ## General Insights
 
