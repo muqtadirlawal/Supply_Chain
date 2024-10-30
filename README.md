@@ -75,11 +75,10 @@ Tool– Microsoft Excel
 - Recommendation: Integrate the data-driven supply chain planning process into the company's existing systems and processes.
 
 ## Insights and Recommendations
+![](Overview.png)
+
 
 You can interact with the dashboard [here]()
-
-### Dashboard
-![](Dashboard.png)
 
 ### General Insights
 
