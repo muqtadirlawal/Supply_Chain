@@ -9,7 +9,7 @@
 - [Tech Stack](#tech-stack)
 - [Project Scope](#project-scope)
 - [Analysis and Insights](#analysis-and-insights)
-- [Recommendations](#recommendations)
+- [Implementation Pathway](#implementation-pathway)
 
 ## Business Problem
 SmartHome Solutions Inc. faces a significant challenge in optimizing its supply chain and production planning. The traditional approach to production planning, based primarily on historical data and market forecasts, poses various obstacles:
@@ -78,53 +78,57 @@ Tool– Microsoft Excel
 
 You can interact with the dashboard [here]()
 
-### Overview
 ![](Overview.png)
 
-This page focuses on the key factors driving attrition and highlights the main retention risks to management.
-- We see that the Company has a total of 2,940 employees, 474 of those left the company during the period in consideration. This gives an Attrition rate of 16%.
-- We see that tenure is a significant factor, with 364 employees out of 474 (~77%) leaving within the first 10 years.
-- Attrition is concentrated in Research & Development, particularly in roles such as Laboratory Technicians, Sales Executives, and research Scientists, which are essential to the company's operations.
-- Job satisfaction and Commuting distance also contribute to turnover, with 132 (40%) employees that left having long commutes to work.
-- Alarmingly, McCurr is losing it's top performers (84%), with some of them working overtime, suggesting possible burn out.
+### General Insights
 
-These are the key areas where targeted interventions can help retain the company's best talents and reduce attrition.
+1. Diverse Customer Base: The even distribution across different ages and the presence of various gender groups indicate a wide-ranging customer base.
 
-### Demographics & Job Roles
-![](Demography.png)
+2. Income and Age Group Correlation: The majority of customers being adults with High income suggests priority to SKUs for this customer sect.
 
-Here, we'll have a closer look into who- which employee demographics and job roles are most impacted by attrition.
-- We see that Attrition is higher among male employees (63%) and single employees (50%), especially among the 26-35 age group, who may be seeking better oppportunities.
-- Also, attrition is predominant in junior/entry-level roles (Job Role 1) at 60%, indicating thet junior staff may lack engagement or growth paths.
+3. Geographic Variability: Different preferences in different cities indicate the need for region-specific strategies.
 
-Retention strategies focusing on career development and engagement for these groups can reduce turnover.
+4. Product Preferences by Segment: Each customer segment (Type 1 to Type 6) shows distinct preferences for certain SKUs, highlighting the importance of tailored product offerings.
 
-### Satisfaction and Work-Life Balance
-![](Satisfaction.png)
+5. High Value SKUs: The identification of top SKU bought by cutomers suggests a focused demand for specific products.
 
-This page explores how job satisfaction, work-life balance, and the work-environment affect attrition.
-- Job satisfaction is a key factor, with 28% (132) of employees that left expressing dissatisfaction with their jobs.
-- Interestingly, 254 of the 474 employees that left had an excellent work-life balance, meaning other factors like job satisfaction and overtime (worked by 53.5% of leavers) may be driving attrition.
-- The work environment also played a role, with 144 employees who left expressing dissatisfaction with it.
-
-### Performance and Compensation
-![](Performance.png)
-
-- The majority of employees who left earned between 1k-5k per month, indicating that compensation could be a factor.
-- 84% of those who left are excellent performers, meaning the Company is losing it's top talents.
-- Employees who received the lowest salary hikes were more likely to leave, suggesting that financial recognition may be inadequate.
-
-## Recommendations
-
-Focus Retention Efforts on Employees with 1-10 Years of Tenure:
-
-- 77% of attrition comes from employees who have been with the company for not more than 10 years. To retain talent, management should enhance career development, offer growth opportunities, and focus on engaging employees in their early years at the company.
-
-Improve Job Satisfaction, especially in Critical Roles:
-
-- 28% of employees who left were dissatisfied with their jobs, and the company is losing top performers (84%), particularly in Research & Development and key job roles like Laboratory Technicians and Sales Executives. Management should address job satisfaction through role-specific interventions, such as career growth, recognition, and feedback.
+6. Sales Variability and Seasonality: Sales varies for different month when in different locations by different Customer Types.
 
 
-Address the Impact of Overtime and Distance from Work:
+### Recommendations
 
-- 53% of employees who left worked overtime, and 40% lived far from work, indicating possible burnout and commuting issues. Offering flexible working options and reducing excessive overtime could improve retention and work-life balance, particularly for those affected by long commutes.
+Product Strategy:
+1. - Diversification: Develop products catering to the diverse needs of different age and income groups.
+   - Tailoring for High-Value SKUs: Focus production on top SKU from the customer segment, ensuring they are well-stocked and readily available.
+
+2. Inventory Management:
+   - Dynamic Stocking: Adjust inventory levels based on sales trends of high-value SKUs for each customer type.
+   - Regional Focus: Tailor inventory to regional preferences, ensuring that popular products in each city are adequately stocked based customer preferences.
+
+3. Marketing and Sales:
+   - Segment-Specific Campaigns: Develop targeted marketing campaigns for each customer segment (Type 1 to Type 6), focusing on their preferred SKUs.
+   - Promotional Timing: Align marketing campaigns with peak sales periods to capitalise on increased demand.
+
+4. Production Planning:
+   - Demand-Driven Production: Adjust production schedules based on the sales trends of the top SKUs which are the specific demands of each customer segment.
+   - Efficiency in Low-Demand Products: For the lower-value SKUs, which are the least sort after SKUs, adopt a lean production approach to minimise excess inventory.
+
+5. Regional Strategies:
+   - Localized Offerings: Customize product offerings and stock levels based on the preferences in Cities A, B, and C.
+   - Distribution Optimization: Optimize distribution and logistics to cater to the unique demands of each geographic location.
+
+6. Data-Driven Approach:
+   - Continuous Monitoring: Regularly analyze sales data to adapt strategies in real-time.
+   - Feedback Loops: Use customer feedback to refine product offerings and marketing strategies.
+
+7. Customer Engagement:
+   - Community Building: Engage with different customer groups to build brand loyalty and gain deeper insights into their preferences.
+   - Responsive Customer Service: Provide excellent customer service, especially to the dominant adult low-income segment, to foster long-term relationships.
+
+### Implementation Pathway:
+
+- Short-Term: Focus on inventory adjustments and marketing campaigns targeting key segments and high-value SKUs.
+- Medium-Term: Develop and refine products based on customer segment feedback and sales data analysis.
+- Long-Term: Invest in technology and processes that enhance understanding of customer preferences and market dynamics, enabling agile and responsive supply chain management.
+
+By adopting these recommendations, SmartHome Solutions Inc. can better align its products and services with the diverse needs of its customer base, optimising both customer satisfaction and operational efficiency.
